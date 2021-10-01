@@ -1,0 +1,82 @@
+.#FONTOS: a beolvasandó sorban használandó formátum "paraméter= szám" (szóközzel a megfelelő helyen)
+#
+instanciak= 100
+#order of the method
+mutOrder= 0
+#number of cells generated over lifetime
+legyartando= 1000000.0
+#t_life
+ido= 0
+#
+
+#
+
+#number of levels
+szintszam= 7
+#mutation rate
+mutrata= 9e-05
+#s_acd
+s_acd= 0
+#s_scdd
+s_scdd= 0
+#s_scd
+s_scd= 0.1
+#Kappa
+Kappa= 1
+#maximal number of mutations
+maxMut= 11
+#amplification factor
+gamma_manual= 4.0
+#
+
+#
+
+#
+
+#
+
+#
+
+#p or q as input to calculate p or q e.g. p is input -> q = 2/(p*gamma)
+flag_pkqk= p
+# run simulation in time -> i ; run simulation in generated cells -> l
+flag_legyartando_ido_futas= i
+# for neutral mutations type -> n ; for selection type -> s
+flag_neutr_s= s
+#which event has fitness -> here scd -> symmetric division
+flag_driver= scd
+#
+
+#
+#
+#
+
+#[deltas,Nk,pk or qk (depending on flag_pkqk) you need as many lines as the number of levels+1 (n+1) ]
+matrix=
+1	1048	0
+1	1048	1.0
+1	1048	1.0
+1	1048	1.0
+1	1048	1.0
+1	1048	1.0
+1	1048	1.0
+1	1048	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+1	51655000	1.0
+
+
+
+
+
+

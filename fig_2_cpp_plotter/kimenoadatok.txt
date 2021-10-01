@@ -1,0 +1,49 @@
+Az egyes szintek adatai:
+
+szint      Nk             racd             rscd        rscdplusd               pk               qk            delta
+    0    1048      2.32959e-07                0                0                0                0      0.000244141
+    1    1048                0      2.32959e-07      4.65917e-07                1              0.5      0.000976562
+    2    1048                0      9.31834e-07      1.86367e-06                1              0.5       0.00390625
+    3    1048                0      3.72734e-06      7.45468e-06                1              0.5         0.015625
+    4    1048                0      1.49094e-05      2.98187e-05                1              0.5           0.0625
+    5    1048                0      5.96374e-05      0.000119275                1              0.5             0.25
+    6    1048                0       0.00023855      0.000477099                1              0.5                1
+ TERM    1048                0                0      0.000954198                1                1                2
+
+A szimulacio soran legyartott sejtek szama: 6.20811e+08
+A szimulaciok soran eltelt ido atlaga: 5.78406e+08
+D_n: 0
+Kritmut valsz: 0
+Mutaciok varhato erteke az adott szinten: 
+az 0.mutans sejtszam/kezdeti sejtszam: 0
+az 1.mutans sejtszam/kezdeti sejtszam: 0
+az 2.mutans sejtszam/kezdeti sejtszam: 0
+az 3.mutans sejtszam/kezdeti sejtszam: 0
+az 4.mutans sejtszam/kezdeti sejtszam: 0
+az 5.mutans sejtszam/kezdeti sejtszam: 0
+az 6.mutans sejtszam/kezdeti sejtszam: 0
+az 7.mutans sejtszam/kezdeti sejtszam: 0
+az 8.mutans sejtszam/kezdeti sejtszam: 0
+az 9.mutans sejtszam/kezdeti sejtszam: 0
+az 10.mutans sejtszam/kezdeti sejtszam: 0
+mc-1->mc: 0.92
+szimzu: 1 1
+1_simu_mossz: 0
+szimzu: 2 1
+2_simu_mossz: 0
+szimzu: 3 1
+3_simu_mossz: 0
+szimzu: 4 0.92
+4_simu_mossz: 0
+szimzu: 5 0
+5_simu_mossz: 0
+szimzu: 6 0
+6_simu_mossz: 0
+szimzu: 7 0
+7_simu_mossz: 0
+szimzu: 8 0
+8_simu_mossz: 0
+szimzu: 9 0
+9_simu_mossz: 0
+szimzu: 10 0
+10_simu_mossz: 0
