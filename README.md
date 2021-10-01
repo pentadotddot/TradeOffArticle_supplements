@@ -5,4 +5,4 @@ Include notebooks for reproducing results in the article:
 * /fig2_cpp_plotter: Fig.2.
 * /Heatmaps*: Fig.3 and Fig.S2 and Fig.S3
 
-# All informatiomn needed for usage included in the notebooks.
+## All informatiomn needed for usage included in the notebooks.
